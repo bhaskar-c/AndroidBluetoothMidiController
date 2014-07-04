@@ -1,0 +1,106 @@
+07-12 16:09:07.295: D/BluetoothCommandService(2223): start
+07-12 16:09:07.295: D/BluetoothCommandService(2223): setState() 0 -> 1
+07-12 16:09:11.945: D/BluetoothCommandService(2223): stop
+07-12 16:09:11.945: D/BluetoothCommandService(2223): setState() 1 -> 0
+07-12 16:09:12.525: D/BluetoothCommandService(2223): start
+07-12 16:09:12.535: D/BluetoothCommandService(2223): setState() 0 -> 1
+07-12 16:09:20.435: W/KeyCharacterMap(2223): Can't open keycharmap file
+07-12 16:09:20.435: W/KeyCharacterMap(2223): Error loading keycharmap file '/system/usr/keychars/touchscreen-keypad.kcm.bin'. hw.keyboards.0.devname='touchscreen-keypad'
+07-12 16:09:20.435: W/KeyCharacterMap(2223): err is 0  dev is .
+07-12 16:09:20.435: W/KeyCharacterMap(2223): Use qwerty.kcm.bin
+07-12 16:09:20.435: W/KeyCharacterMap(2223): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+07-12 16:09:21.455: W/dalvikvm(2223): threadid=1: thread exiting with uncaught exception (group=0x40028890)
+07-12 16:09:21.495: E/AndroidRuntime(2223): FATAL EXCEPTION: main
+07-12 16:09:21.495: E/AndroidRuntime(2223): android.content.ActivityNotFoundException: Unable to find explicit activity class {com.freakk.midibluetooth/com.freakk.midibluetooth.DeviceListActivity}; have you declared this activity in your AndroidManifest.xml?
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1404)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1378)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.app.Activity.startActivityForResult(Activity.java:2817)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.freakk.midibluetooth.MidiBluetooth.onOptionsItemSelected(MidiBluetooth.java:228)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.app.Activity.onMenuItemSelected(Activity.java:2195)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.policy.impl.PhoneWindow.onMenuItemSelected(PhoneWindow.java:733)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:143)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:855)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.view.menu.IconMenuView.invokeItem(IconMenuView.java:532)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.view.menu.IconMenuItemView.performClick(IconMenuItemView.java:122)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.view.View$PerformClick.run(View.java:8844)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.os.Handler.handleCallback(Handler.java:587)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.os.Looper.loop(Looper.java:123)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at android.app.ActivityThread.main(ActivityThread.java:4627)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at java.lang.reflect.Method.invokeNative(Native Method)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at java.lang.reflect.Method.invoke(Method.java:521)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:858)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+07-12 16:09:21.495: E/AndroidRuntime(2223): 	at dalvik.system.NativeStart.main(Native Method)
+07-12 16:14:09.595: D/BluetoothCommandService(2421): start
+07-12 16:14:09.595: D/BluetoothCommandService(2421): setState() 0 -> 1
+07-12 16:14:13.915: D/BluetoothCommandService(2421): stop
+07-12 16:14:13.915: D/BluetoothCommandService(2421): setState() 1 -> 0
+07-12 16:14:14.125: D/BluetoothCommandService(2421): start
+07-12 16:14:14.125: D/BluetoothCommandService(2421): setState() 0 -> 1
+07-12 16:14:15.095: W/KeyCharacterMap(2421): Can't open keycharmap file
+07-12 16:14:15.095: W/KeyCharacterMap(2421): Error loading keycharmap file '/system/usr/keychars/touchscreen-keypad.kcm.bin'. hw.keyboards.0.devname='touchscreen-keypad'
+07-12 16:14:15.095: W/KeyCharacterMap(2421): err is 0  dev is .
+07-12 16:14:15.095: W/KeyCharacterMap(2421): Use qwerty.kcm.bin
+07-12 16:14:15.105: W/KeyCharacterMap(2421): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+07-12 16:14:15.795: D/BluetoothCommandService(2421): stop
+07-12 16:14:15.795: D/BluetoothCommandService(2421): setState() 1 -> 0
+07-12 16:14:16.015: D/BluetoothCommandService(2421): start
+07-12 16:14:16.015: D/BluetoothCommandService(2421): setState() 0 -> 1
+07-12 16:14:18.825: W/dalvikvm(2421): threadid=1: thread exiting with uncaught exception (group=0x40028890)
+07-12 16:14:18.895: E/AndroidRuntime(2421): FATAL EXCEPTION: main
+07-12 16:14:18.895: E/AndroidRuntime(2421): android.content.ActivityNotFoundException: Unable to find explicit activity class {com.freakk.midibluetooth/com.freakk.midibluetooth.DeviceListActivity}; have you declared this activity in your AndroidManifest.xml?
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1404)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1378)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.app.Activity.startActivityForResult(Activity.java:2817)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.freakk.midibluetooth.MidiBluetooth.onOptionsItemSelected(MidiBluetooth.java:228)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.app.Activity.onMenuItemSelected(Activity.java:2195)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.policy.impl.PhoneWindow.onMenuItemSelected(PhoneWindow.java:733)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:143)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:855)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.view.menu.IconMenuView.invokeItem(IconMenuView.java:532)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.view.menu.IconMenuItemView.performClick(IconMenuItemView.java:122)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.view.View$PerformClick.run(View.java:8844)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.os.Handler.handleCallback(Handler.java:587)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.os.Looper.loop(Looper.java:123)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at android.app.ActivityThread.main(ActivityThread.java:4627)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at java.lang.reflect.Method.invokeNative(Native Method)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at java.lang.reflect.Method.invoke(Method.java:521)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:858)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+07-12 16:14:18.895: E/AndroidRuntime(2421): 	at dalvik.system.NativeStart.main(Native Method)
+07-12 16:15:44.405: D/BluetoothCommandService(2475): start
+07-12 16:15:44.405: D/BluetoothCommandService(2475): setState() 0 -> 1
+07-12 16:15:44.835: D/BluetoothCommandService(2475): stop
+07-12 16:15:44.835: D/BluetoothCommandService(2475): setState() 1 -> 0
+07-12 16:15:45.035: D/BluetoothCommandService(2475): start
+07-12 16:15:45.035: D/BluetoothCommandService(2475): setState() 0 -> 1
+07-12 16:15:49.935: W/KeyCharacterMap(2475): Can't open keycharmap file
+07-12 16:15:49.935: W/KeyCharacterMap(2475): Error loading keycharmap file '/system/usr/keychars/touchscreen-keypad.kcm.bin'. hw.keyboards.0.devname='touchscreen-keypad'
+07-12 16:15:49.935: W/KeyCharacterMap(2475): err is 0  dev is .
+07-12 16:15:49.945: W/KeyCharacterMap(2475): Use qwerty.kcm.bin
+07-12 16:15:49.945: W/KeyCharacterMap(2475): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+07-12 16:15:50.995: W/dalvikvm(2475): threadid=1: thread exiting with uncaught exception (group=0x40028890)
+07-12 16:15:51.035: E/AndroidRuntime(2475): FATAL EXCEPTION: main
+07-12 16:15:51.035: E/AndroidRuntime(2475): android.content.ActivityNotFoundException: Unable to find explicit activity class {com.freakk.midibluetooth/com.freakk.midibluetooth.DeviceListActivity}; have you declared this activity in your AndroidManifest.xml?
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1404)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1378)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.app.Activity.startActivityForResult(Activity.java:2817)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.freakk.midibluetooth.MidiBluetooth.onOptionsItemSelected(MidiBluetooth.java:228)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.app.Activity.onMenuItemSelected(Activity.java:2195)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.policy.impl.PhoneWindow.onMenuItemSelected(PhoneWindow.java:733)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:143)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:855)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.view.menu.IconMenuView.invokeItem(IconMenuView.java:532)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.view.menu.IconMenuItemView.performClick(IconMenuItemView.java:122)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.view.View$PerformClick.run(View.java:8844)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.os.Handler.handleCallback(Handler.java:587)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.os.Looper.loop(Looper.java:123)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at android.app.ActivityThread.main(ActivityThread.java:4627)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at java.lang.reflect.Method.invokeNative(Native Method)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at java.lang.reflect.Method.invoke(Method.java:521)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:858)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+07-12 16:15:51.035: E/AndroidRuntime(2475): 	at dalvik.system.NativeStart.main(Native Method)
